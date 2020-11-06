@@ -1,2 +1,2 @@
-# cf_fishing
-Requires requirements on my GitHub 
+# CF_Ticketing
+Requires https://github.com/ColsSupreme/Requierments
